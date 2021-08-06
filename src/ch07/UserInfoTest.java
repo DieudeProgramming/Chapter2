@@ -14,7 +14,7 @@ public class UserInfoTest {
         System.out.println(userLee.showUserInfo());
 
         UserInfo userKim = new UserInfo("b12345","0987mnbvc","Kim");
-        System.out.println(userKim.showUserInfo());
+        userKim.showUserInfo();
 
     }
 
