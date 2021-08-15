@@ -1,4 +1,4 @@
-package practice.humain;
+package ch08Practice.humain;
 
 public class HumainTest {
 

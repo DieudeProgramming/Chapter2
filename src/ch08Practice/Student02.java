@@ -1,4 +1,4 @@
-package practice;
+package ch08Practice;
 
 public class Student02 {
 

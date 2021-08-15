@@ -1,4 +1,4 @@
-package practice.order;
+package ch08Practice.order;
 
 public class Order {
 
